@@ -1,0 +1,10 @@
+Save Format v3.0(19990112)
+@begin Libraries
+ "constant_manager.pbl" "";
+@end;
+@begin Objects
+ "w_about.srw" "constant_manager.pbl";
+ "constant_manager.sra" "constant_manager.pbl";
+ "d_constant_manager.srd" "constant_manager.pbl";
+ "w_constant_manager.srw" "constant_manager.pbl";
+@end;
